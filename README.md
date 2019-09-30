@@ -1,5 +1,6 @@
 # hello-world
-this is a tutorial
+I, I, I
+this is a tutorial and the followings are added.
 I know.
 
 I need visual basic code.
